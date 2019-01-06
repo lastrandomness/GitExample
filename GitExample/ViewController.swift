@@ -12,7 +12,7 @@ class ViewController: NSViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("some Change in M-branch")
+        print("some Change in M-branch second time")
         // Do any additional setup after loading the view.
     }
     
